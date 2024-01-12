@@ -29,5 +29,6 @@ public class Triangulo implements FiguraGeometrica{
 	}
 	
 	
+	
 
 }
